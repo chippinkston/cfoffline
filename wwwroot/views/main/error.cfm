@@ -15,5 +15,5 @@
 		<li>Exception message: #request.exception.message#</li>
 		<li>Exception detail: #request.exception.detail#</li>
 	</ul>
-    <p>Back to the <a href="#buildURL('main')#">default page</a>?</p>
+    <p>Back to the <a href="#buildURL(':')#">default page</a>?</p>
 </cfoutput>

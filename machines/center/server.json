@@ -1,0 +1,26 @@
+{
+    "name":"cfoffline-center",
+    "openBrowser":true,
+    "stopsocket":0,
+    "debug":true,
+    "directory":"../../wwwroot/",
+    "jvm":{
+        "heapSize":512,
+        "args":""
+    },
+    "web":{
+        "host":"127.0.0.1",
+        "directoryBrowsing":true,
+        "http":{
+            "port":8088,
+            "enable":true
+        },
+        "ssl":{
+            "enable":false,
+            "port":443,
+            "cert":"",
+            "key":"",
+            "keyPass":""
+        }
+    }
+}

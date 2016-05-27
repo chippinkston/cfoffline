@@ -2,7 +2,7 @@
 
 <html>	
 	<head>
-		<title>Basic FW/1 Skeleton</title>
+		<title>Subsystems 2.0 FW/1 Skeleton</title>
 	</head>
 
 	<body>
